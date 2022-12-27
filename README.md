@@ -1,4 +1,6 @@
 - ### Hi there, I'm Ramesh Hariharan👋
+
+LinkedIn Profile: https://www.linkedin.com/in/ramesh-hariharan-902877b8/
  
 
   * 🔭 I am Currently working as **Data Engineer (Snowflake & Databricks)**
