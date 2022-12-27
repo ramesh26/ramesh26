@@ -1,16 +1,14 @@
-### Hi there 👋
+- ### Hi there, I'm Ramesh Hariharan👋
+ 
 
-<!--
-**ramesh26/ramesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  * 🔭 I am Currently working as **Data Engineer (Snowflake & Databricks)**
 
-Here are some ideas to get you started:
+  - 🌱 I’m currently Learning Machine learning & AI😎.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+
+  - ⚡ Fun fact: I love to code.
+
+  ---
+
+***Thanks for visit my profile.***
